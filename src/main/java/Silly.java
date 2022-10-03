@@ -83,7 +83,6 @@ public class Silly implements Comparable<Silly>{
 
 
 
-
     public static void main(String[] args) {
         /**
          * Task 1 (continued): The below demonstrates how each of the Silly
